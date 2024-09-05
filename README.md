@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Docker and Microservices<br>I am a MERN & Next.js Developer <br>Looking for a Full time Frontend Dev or Full Stack Dev Role<br>I love football and music
+Currently learning Docker and Microservices<br>I am a MERN & Next.js Developer <br>Looking for a Full Time Frontend or Full Stack Dev Role<br>I love football and music :)
 
 
 ## 🌐 Socials:
