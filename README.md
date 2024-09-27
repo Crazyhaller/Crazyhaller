@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning PostgreSQL and Docker<br>I am a MERN & Next.js Developer<br>Looking for a Full Time Frontend or Full Stack Dev Role<br>I am quick learner and grasp new technologies fast to work on them<br>I love football and music :)
+Currently learning PostgreSQL and Docker<br>I am a MERN & Next.js Developer<br>Looking for a Full Time Frontend or Full Stack Dev Role<br>I am fast learner and I can grasp new technologies quickly to start working on them<br>I love football and music :)
 
 
 ## 🌐 Socials:
