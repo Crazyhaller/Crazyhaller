@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning and working on PostgreSQL & Docker<br>Looking for a full time Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 2y hands on experience and 7mo Internship experience<br>I love Football and Music :)
+I am currently learning and working on PostgreSQL & Docker<br>Looking for a full time Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 3y hands on, 7mo Internship & 3mo Full Time Job experience<br>I love Football and Music :)
 
 
 ## 🌐 Socials:
