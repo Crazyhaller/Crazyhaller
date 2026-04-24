@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning and working on PostgreSQL & Python<br>Looking for a Full Time Remote Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 3y hands on, 7mo Internship & 3mo Full Time Job experience<br>I love Football, Mountains and Music :)
+I am currently learning and working on PostgreSQL<br>Looking for a Full Time Remote Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 3y hands on, 7mo Internship & 3mo Full Time Job experience<br>I love Football, Mountains and Music :)
 
 
 ## 🌐 Socials:
