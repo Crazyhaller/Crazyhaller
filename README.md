@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning and working on WebScokets & Redis<br>Looking for a Full Time Remote Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 3y hands on, 7mo Internship & 3mo Full Time Job experience<br>I love Football, Mountains and Music :)
+Currently learning and working on React Native<br>Looking for a Full Time Remote Frontend or Full Stack Dev Role<br>Proficient in MERN Stack & Next.js with 3y hands on, 7mo Internship & 3mo Full Time Job experience<br>I love Football, Mountains and Music :)
 
 
 ## 🌐 Socials:
